@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b29843d8-657d-4f28-a780-9ec658e19949" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develope" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dRn6OpKuEFqbUVFgbnBGzKVWhL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b29843d8-657d-4f28-a780-9ec658e19949" name="Default Changelist" comment="" />
+      <created>1592396596108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592396596108</updated>
+      <workItem from="1592396597326" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="444" key="Github.ShareDialog" timestamp="1592396626706">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="700" y="444" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592396626706" />
+    <state x="586" y="163" key="Github.UntrackedFilesDialog" timestamp="1592396631380">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="586" y="163" key="Github.UntrackedFilesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592396631380" />
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592397127219">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1592397127219" />
   </component>
 </project>
