@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b29843d8-657d-4f28-a780-9ec658e19949" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +53,16 @@
       <option name="presentableId" value="Default" />
       <updated>1592396596108</updated>
       <workItem from="1592396597326" duration="776000" />
+      <workItem from="1592470235720" duration="674000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Servidor funcionando a pelo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Servidor funcionando a pelo." />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="444" key="Github.ShareDialog" timestamp="1592396626706">
@@ -68,9 +73,9 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="586" y="163" key="Github.UntrackedFilesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592396631380" />
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592397127219">
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592397599429">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1592397127219" />
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1592397599429" />
   </component>
 </project>
