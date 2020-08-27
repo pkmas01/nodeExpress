@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b29843d8-657d-4f28-a780-9ec658e19949" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,11 +54,16 @@
       <updated>1592396596108</updated>
       <workItem from="1592396597326" duration="776000" />
       <workItem from="1592470235720" duration="674000" />
+      <workItem from="1592507722806" duration="29000" />
+      <workItem from="1592825169884" duration="13000" />
+      <workItem from="1592825257762" duration="477000" />
+      <workItem from="1592828396258" duration="30000" />
+      <workItem from="1597400063603" duration="553000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Servidor funcionando a pelo." />
@@ -73,9 +78,9 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="586" y="163" key="Github.UntrackedFilesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592396631380" />
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592397599429">
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592488123961">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1592397599429" />
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1592488123961" />
   </component>
 </project>
